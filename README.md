@@ -1,0 +1,1 @@
+This repository consist of the coding questions solving which is shared in the coding-practice channel.
